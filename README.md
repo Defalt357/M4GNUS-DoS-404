@@ -25,7 +25,7 @@ O script cria várias threads, cada uma enviando uma requisição HTTP para a UR
 
 Aqui está uma captura de tela do script em execução:
 
-![M4GNUS-DoS Screenshot](./img/M4GNUS.jpg)
+![M4GNUS-DoS Screenshot](./M4GNUS.jpg)
 
 O script apresenta um menu com as seguintes opções:
 
