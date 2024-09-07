@@ -33,7 +33,7 @@ Clone o repositório:
    Execute o script:
    python3 m4gnus_dos.py
 
-![M4GNUS-DoS /data/data/com.termux/files/home/storage/downloads/SLA/M4GNUS.jpg
+![M4GNUS-DoS Screenshot](.DoS/data/data/com.termux/files/home/storage/downloads/SLA/M4GNUS.jpg)
 
    
    
