@@ -33,7 +33,7 @@ Clone o repositório:
    Execute o script:
    python3 m4gnus_dos.py
 
-![M4GNUS-DoS Screenshot](./M4GNUS.jpg)
+![M4GNUS-DoS Screenshot](./img/M4GNUS.jpg)
 
    
    
