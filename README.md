@@ -45,7 +45,7 @@ Clone o repositório:
    pip install requests colorama
 
    Execute o script:
-   python3 m4gnus_dos.py
+   python3 main.py
 
 
    Créditos
