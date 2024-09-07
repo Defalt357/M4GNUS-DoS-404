@@ -21,6 +21,20 @@ O script cria várias threads, cada uma enviando uma requisição HTTP para a UR
 - Biblioteca `requests` para enviar as requisições HTTP.
 - Biblioteca `colorama` para colorir o terminal.
 
+- ## Exemplo de Uso
+
+Aqui está uma captura de tela do script em execução:
+
+![M4GNUS-DoS Screenshot](./img/M4GNUS.jpg)
+
+O script apresenta um menu com as seguintes opções:
+
+
+[1] Iniciar Ataque DoS
+[2] Créditos
+[3] Sair
+
+
 ### Instalação
 
 Clone o repositório:
@@ -33,7 +47,8 @@ Clone o repositório:
    Execute o script:
    python3 m4gnus_dos.py
 
-![M4GNUS-DoS Screenshot](./img/M4GNUS.jpg)
 
-   
+   Créditos
+Desenvolvido por: Deiv
+GitHub: Defalt357
    
